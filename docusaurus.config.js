@@ -9,7 +9,7 @@ const config = {
   title: 'note',
   tagline: "Julien's note",
   url: 'https://hijulien.github.io',
-  baseUrl: '/notes/',
+  baseUrl: '/hijulien/',
   // url:'http://hijulien.gitee.io/',
   // baseUrl:'/note/',
   onBrokenLinks: 'throw',
