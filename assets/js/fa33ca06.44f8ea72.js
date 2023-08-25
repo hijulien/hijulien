@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhijulien=self.webpackChunkhijulien||[]).push([[1084],{6072:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/hijulien/blog/tags/hello","allTagsPath":"/hijulien/blog/tags","count":2}')}}]);

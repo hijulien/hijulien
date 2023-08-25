@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhijulien=self.webpackChunkhijulien||[]).push([[8886],{9762:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"xzl"}')}}]);
