@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhijulien=self.webpackChunkhijulien||[]).push([[2336],{9208:e=>{e.exports=JSON.parse('{"permalink":"/hijulien/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

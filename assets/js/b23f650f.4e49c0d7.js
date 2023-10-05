@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhijulien=self.webpackChunkhijulien||[]).push([[5073],{16877:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/hijulien/blog/tags/facebook","allTagsPath":"/hijulien/blog/tags","count":1}')}}]);
